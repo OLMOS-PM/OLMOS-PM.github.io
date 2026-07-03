@@ -1,0 +1,167 @@
+== Pablo M. Olmos 
+([pamartin@ing.uc3m.es]) 
+
+
+~~~
+{}{img_left}{IMG-20151114-WA0022.jpg}{me}{300}{400}{}
+- PhD. in Telecommunications Engineering
+- Full Professor (Catedrático de Universidad),~ [http://gts.tsc.uc3m.es/ Signal Processing Group (GTS)], [https://www.uc3m.es/Home Universidad Carlos III de Madrid]
+- [https://scholar.google.com/citations?user=pdcdDVoAAAAJ&hl=es Google scholar profile]
+- [https://dblp.org/pid/83/8261.html DLPB profile]
+~~~
+
+
+
+# == About me
+
+# I am an associate professor at the [http://gts.uc3m.es Signal Processing Group (GTS)] in Universidad Carlos III de Madrid (UC3M), Spain. I received the Ph.D. degree in Telecommunications from [http://us.es University of Sevilla] in 2011 and I joined UC3M at 2012. I have been a visiting researcher at [http://www.epfl.ch École Polytechnique Fédérale de Lausanne] (Switzerland), [http://www.nd.edu Notre Dame University] (USA) and [http://www.ensea.fr École Nationale Supérieure de l'Electronique et de ses Applications]  (France). 
+
+== Research interests
+-  Probabilistic Machine Learning  and efficient inference methods
+-  Deep probabilistic models
+-  Applications in personalized medicine and life-sciences
+
+
+== Latest news!
+
+=== 2026
+
+~~~
+{Paper accepted at ICLR (February 2026)}
+[https://openreview.net/forum?id=vFfujX5Ygn /Revisiting Nonstationary Kernel Design for Multi-Output Gaussian Processes/].  Qiaochu Xu, Zi Yang, Ying Li, Michael Minyi Zhang, Pablo M. Olmos 
+~~~
+
+~~~
+{Paper accepted at ICLR (February 2026)}
+[https://openreview.net/forum?id=Kcb6WufAco /A Probabilistic Hard Concept Bottleneck for Steerable Generative Models/].  María Martínez-García, Ricardo Vazquez Alvarez, Alejandro Lancho, Pablo M. Olmos, Isabel Valera 
+~~~
+
+~~~
+{Paper accepted at AISTATS (January 2026). SPOTLIGHT PRESENTATION!} 
+[https://openreview.net/forum?id=h0R1wEON9v /Explicit Density Approximation for Neural Implicit Samplers Using a Bernstein-Based Convex Divergence/].  José Manuel de Frutos, Pablo M. Olmos, Manuel A. Vázquez,  Joaquín Míguez
+~~~
+
+=== 2025
+
+~~~
+{Paper accepted at NeurIPS (September 2025)}
+[https://openreview.net/forum?id=gVtk4lzhcl /Multi-View Oriented GPLVM: Expressiveness and Efficiency/].  Zi Yang, Ying Li, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos
+~~~
+
+~~~
+{Interview in El País (September 2025)}
+
+In an [https://elpais.com/tecnologia/2025-09-19/el-salto-que-viene-en-la-ia-generativa-los-grandes-modelos-para-recrear-el-mundo-fisico.html article] that reviews current challenges and trends in AI, El País newspaper interviewed me to discuss on Large World Models (in Spanish). 
+~~~
+
+
+~~~
+{Machine Learning Summer School (MLSS) (August 2025)}
+
+I had the pleasure of being one of the organizers of [https://eventosdiee.ucsp.edu.pe/mlss/ MLSS 2025 in Arequipa, Perú]. An outstanding group of speakers and students came together for 13 days of engaging seminars and discussions. It was truly a wonderful experience.
+~~~
+
+~~~
+{Paper accepted at Transactions on Pattern Analysis and Machine Intelligence (July 2025)}
+[https://ieeexplore.ieee.org/abstract/document/11081940 /Scalable Random Feature Latent Variable Models /].  Ying Li, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Pablo M. Olmos, Petar M. Djurić
+~~~
+
+~~~
+{MLCARE Doctoral Network (June 2025)} 
+
+Our Marie Skłodowska-Curie 2024 Doctoral Network [https://cordis.europa.eu/project/id/101226456 *Machine Learning Computational Advancements for peRsonalized mEdicine* (MLCARE)], has been granted, and the grant agreement has been signed by all parties. The project will officially start in January 2026, and I am honored to serve as the **project coordinator**.
+
+MLCARE aims to push the frontiers of AI for personalized medicine and life sciences, bringing together a fantastic consortium: UC3M, MPG, ULiege, LMU, U. Paris Cité, UTartu, UCPH, ETH Zürich, FPS, AstraZeneca, Pharmatics, HMNC — with support from Oxford, Inst. Pasteur, Siemens, Novo Nordisk, eB2, Pixelgen, University of Maastricht, and Instituto de Investigación Sanitaria Gregorio Marañón.
+
+Soon, we will be looking for PhD students to join the adventure!
+~~~
+
+~~~
+{Paper accepted at UAI (May 2025)}
+[https://proceedings.mlr.press/v286/martinez-garcia25a.html /Improved Variational Inference in Discrete VAEs using Error Correcting Codes /].  María Martínez-García, Grace Villacrés, David Mitchell, Pablo M. Olmos
+~~~
+
+=== 2024
+~~~
+{Interview in El País (October 2024)}
+El País recently interviewed me about my research on generative AI and my FBBVA Leonardo Grant. You can read the full interview [https://elpais.com/tecnologia/2024-10-18/el-ingeniero-espanol-que-tiene-un-plan-para-desarrollar-una-inteligencia-artificial-humilde.html /here/] (in Spanish).
+~~~
+
+~~~
+{Becas Leonardo a Investigadores y Creadores Culturales (September 2024)}
+I’m excited to announce that my project, “THAI: Towards Humble and Discoverable AI,” has been awarded a grant by the [https://www.redleonardo.es/noticias/adjudicadas-becas-leonardo-2024/ /FBBVA Leonardo Program/]. This year, only 57 out of 1,423 projects were selected (a 4% acceptance rate), making this recognition even more special. We are currently looking for a [https://euraxess.ec.europa.eu/jobs/269849 post-doctoral researcher] to join our team and contribute to the project.
+~~~
+
+~~~
+{Best poster paper award at Medical Imaging with Deep Learning (MIDL) 2024 (July 2024)}
+[https://openreview.net/forum?id=1eSuIPZ1cf /Diffusion X-ray image denoising/]. Daniel Sanderson, Pablo M. Olmos, Carlos Fernández Del Cerro, Manuel Desco, Mónica Abella 
+~~~
+
+~~~
+{Paper accepted at ICML 2024 (May 2024)}
+[https://arxiv.org/abs/2405.01196 /Decoupling Feature Extraction and Classification Layers for Calibrated Neural Networks/].  Mikkel Jordahn, Pablo M. Olmos
+~~~
+
+~~~
+{Paper accepted at AISTATS 2024 (January 2024)}
+[http://arxiv.org/abs/2402.16435 /Training Implicit Generative Models via an Invariant Statistical Loss/]. Jose Manuel de Frutos, Pablo M. Olmos, Manuel Alberto Vázquez, Joaquín Míguez 
+~~~
+
+~~~
+{Paper accepted at ICLR 2024 (January 2024)}
+[https://arxiv.org/abs/2401.11618 /Efficient local linearity regularization to overcome catastrophic overfitting/]. Elias Abad Rocamora, Fanghui Liu, Grigorios G. Chrysos, Pablo M. Olmos, Volkan Cevher
+~~~
+
+~~~
+{Member of ELLIS society (April 2023)}
+[https://ellis.eu/members /I am now member of the ELLIS society/]
+~~~
+
+=== 2023
+~~~
+{Paper accepted at ICML 2023 (April 2023)}
+[https://arxiv.org/abs/2302.06223 /Variational Mixture of HyperGenerators for Learning Distributions Over Functions/].  Batuhan Koyuncu, Pablo Sanchez-Martin, Ignacio Peis, Pablo M. Olmos, Isabel Valera
+~~~
+
+== Research Group and former members
+- Leire Paz  (PhD Student, co-supervisor, UC3M)
+- Óscar Jiménez (PhD Student, co-supervisor, UC3M)
+- Josué Pérez (PhD Student, co-supervisor, UC3M)
+- Lorena Gallego (PhD Student, co-supervisor, UC3M)
+- Rodrigo Oliver (MSc Student, co-supervisor, UC3M)
+- Darío Cabezas (MSc Student, co-supervisor, UC3M)
+- [https://mariamartinezgarcia.github.io/ María Martínez] (Postdoctoral researcher at Saarland University, Germany)
+- [https://aguerrerolopez.github.io/ Alejandro Guerrero] (Postdoctoral researcher at University of Zürich, Switzerland)
+- [https://dbarrejon.github.io/ Daniel Barrejón] (AI Research Scientist at [https://www.centricsoftware.com/es/ Centric Software])
+- [https://ipeis.github.io/ Ignacio Peis] (Postdoctoral researcher at Technical University of Denmark)
+- [https://fmorenopino.github.io/ Fernando Moreno-Pino] (Postdoctoral researcher at University of Oxford)
+- [https://scholar.google.com/citations?user=a2p0zSIAAAAJ&hl=en Lorena Romero-Medrano] (Machine Learning Researcher at [https://es.linkedin.com/company/optimitive-s.l. Optimitive Group])
+- [https://scholar.google.com/citations?user=Qajq3sYAAAAJ&hl=en Emese Sükei] (Postdoctoral researcher at Medical University of Vienna)
+- [https://scholar.google.com/citations?user=J38Ue5UAAAAJ&hl=es Aurora Cobo] (Research Scientist at [https://genaios.ai/ Genaios])
+- [https://scholar.google.es/citations?user=ePQfVqsAAAAJ&hl=es Jose Carlos Aradillas] (Senior Machine Learning Engineer at [https://eb2.tech/ Evidence-Based Behavior])
+- [https://scholar.google.com/citations?user=E2M54EIAAAAJ&hl=es Yanfang Liu] (Senior ECC Design Engineer at [http://www.innogritcorp.com/ Innogrit])
+- [https://scholar.google.es/citations?user=3rkwqOkAAAAJ&hl=en Javier Céspedes] (Técnico Superior en la Comisión Nacional de los Mercados y la Competencia) 
+
+== Contact me
+\n
+- /Address:   /  Universidad Carlos III de Madrid, Dpto. de Teoría de la Señal y Comunicaciones, Avenida de la Universidad 30, 28911 Leganés, Spain
+- /Office:   / 4.2.A.08
+- /Office phone:/ +34916248875
+- /email: / [olmos@tsc.uc3m.es, pamartin@ing.uc3m.es]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
