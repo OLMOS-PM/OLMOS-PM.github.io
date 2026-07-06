@@ -4,48 +4,75 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="Pablo M. Olmos — Full Professor at Universidad Carlos III de Madrid. Probabilistic machine learning, deep probabilistic models, and AI for personalised medicine." />
-  <title>Pablo M. Olmos</title>
+  <title>Pablo M. Olmos · UC3M</title>
   <link rel="stylesheet" href="assets/styles.css" />
 </head>
 <body>
   <header class="site-header">
+    <div class="topline"></div>
     <nav class="nav" aria-label="Main navigation">
-      <a class="brand" href="#top">Pablo M. Olmos</a>
+      <a class="brand" href="#top">
+        <span class="brand-name">Pablo M. Olmos</span>
+        <span class="brand-role">Full Professor · UC3M</span>
+      </a>
       <div class="nav-links">
+        <a href="#about">About</a>
         <a href="#research">Research</a>
         <a href="#news">News</a>
         <a href="#group">Group</a>
         <a href="#contact">Contact</a>
       </div>
+      <a class="uc3m-mark" href="https://www.uc3m.es/" target="_blank" rel="noopener" aria-label="Universidad Carlos III de Madrid">
+        <img src="assets/uc3m-logo.png" alt="Universidad Carlos III de Madrid" />
+      </a>
     </nav>
   </header>
 
   <main id="top">
     <section class="hero section">
       <div class="hero-copy">
-        <p class="eyebrow">Probabilistic Machine Learning · Generative AI · Personalised Medicine</p>
+        <p class="eyebrow">Universidad Carlos III de Madrid · Signal Processing Group</p>
         <h1>Pablo M. Olmos</h1>
-        <p class="lead">Full Professor (Catedrático de Universidad) at the Department of Signal Theory and Communications, Universidad Carlos III de Madrid, and member of the Signal Processing Group (GTS).</p>
+        <p class="lead">Full Professor (Catedrático de Universidad) at the Department of Signal Theory and Communications, Universidad Carlos III de Madrid.</p>
+        <p class="intro">My research sits at the intersection of probabilistic machine learning, deep generative models and AI for personalised medicine and life sciences.</p>
         <div class="actions">
-          <a class="button" href="mailto:pamartin@ing.uc3m.es">Email me</a>
+          <a class="button" href="mailto:pamartin@ing.uc3m.es">Email</a>
           <a class="button ghost" href="https://scholar.google.com/citations?user=pdcdDVoAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar</a>
           <a class="button ghost" href="https://dblp.org/pid/83/8261.html" target="_blank" rel="noopener">DBLP</a>
         </div>
       </div>
-      <figure class="portrait-card">
-        <img src="assets/pablo-yosemite.jpg" alt="Pablo M. Olmos in Yosemite" />
-      </figure>
+
+      <aside class="profile-card" aria-label="Profile summary">
+        <figure class="portrait-card">
+          <img src="assets/pablo-yosemite.jpg" alt="Pablo M. Olmos in Yosemite" />
+        </figure>
+        <div class="affiliation-box">
+          <strong>Affiliation</strong>
+          <a href="https://www.uc3m.es/" target="_blank" rel="noopener">Universidad Carlos III de Madrid</a>
+          <a href="http://gts.tsc.uc3m.es/" target="_blank" rel="noopener">Signal Processing Group (GTS)</a>
+          <span>Department of Signal Theory and Communications</span>
+        </div>
+      </aside>
+    </section>
+
+    <section id="about" class="section about-panel">
+      <div>
+        <p class="eyebrow">About</p>
+        <h2>Probabilistic models for reliable machine learning</h2>
+      </div>
+      <p>I develop machine learning methods that represent uncertainty, exploit structure and support scientific discovery. Current directions include probabilistic deep learning, generative modelling, uncertainty quantification, kernel methods, and applications in personalised medicine, omics, computational psychiatry and medical imaging.</p>
     </section>
 
     <section id="research" class="section grid-two">
       <div>
         <p class="eyebrow">Research interests</p>
-        <h2>Machine learning with uncertainty, structure and applications</h2>
+        <h2>Methods and applications</h2>
       </div>
       <div class="cards">
-        <article class="card"><h3>Probabilistic Machine Learning</h3><p>Efficient inference methods, uncertainty quantification and kernel methods.</p></article>
-        <article class="card"><h3>Deep probabilistic models</h3><p>Generative modelling, latent-variable models and calibrated neural networks.</p></article>
-        <article class="card"><h3>AI for life sciences</h3><p>Applications in personalised medicine, omics, computational psychiatry and medical imaging.</p></article>
+        <article class="card"><h3>Probabilistic Machine Learning</h3><p>Efficient inference methods, uncertainty quantification, Bayesian modelling and kernel methods.</p></article>
+        <article class="card"><h3>Deep probabilistic models</h3><p>Generative modelling, latent-variable models, calibrated neural networks and robust learning.</p></article>
+        <article class="card"><h3>AI for life sciences</h3><p>Personalised medicine, omics, computational psychiatry and medical image modelling.</p></article>
+        <article class="card highlight"><h3>MLCARE Doctoral Network</h3><p>Coordinator of the MSCA Doctoral Network <a href="https://cordis.europa.eu/project/id/101226456" target="_blank" rel="noopener">MLCARE</a>, advancing machine learning for personalised medicine.</p></article>
       </div>
     </section>
 
@@ -80,6 +107,7 @@
           <li>Rodrigo Oliver — MSc student, co-supervisor, UC3M</li>
           <li>Darío Cabezas — MSc student, co-supervisor, UC3M</li>
         </ul>
+
         <h3>Former members</h3>
         <ul class="clean-list columns">
           <li><a href="https://mariamartinezgarcia.github.io/" target="_blank" rel="noopener">María Martínez</a></li>
@@ -98,15 +126,20 @@
     </section>
 
     <section id="contact" class="section contact-card">
-      <p class="eyebrow">Contact</p>
-      <h2>Get in touch</h2>
-      <p>Universidad Carlos III de Madrid, Department of Signal Theory and Communications, Avenida de la Universidad 30, 28911 Leganés, Spain.</p>
-      <p><strong>Office:</strong> 4.2.A.08 · <strong>Phone:</strong> +34 916 248 875 · <strong>Email:</strong> <a href="mailto:pamartin@ing.uc3m.es">pamartin@ing.uc3m.es</a></p>
+      <div>
+        <p class="eyebrow">Contact</p>
+        <h2>Get in touch</h2>
+      </div>
+      <div>
+        <p><strong>Universidad Carlos III de Madrid</strong><br />Department of Signal Theory and Communications<br />Avenida de la Universidad 30, 28911 Leganés, Spain.</p>
+        <p><strong>Office:</strong> 4.2.A.08 · <strong>Phone:</strong> +34 916 248 875 · <strong>Email:</strong> <a href="mailto:pamartin@ing.uc3m.es">pamartin@ing.uc3m.es</a></p>
+      </div>
     </section>
   </main>
 
   <footer class="footer">
-    <p>© <span id="year">2026</span> Pablo M. Olmos. Built as a static site for GitHub Pages.</p>
+    <img src="assets/uc3m-logo.png" alt="Universidad Carlos III de Madrid" />
+    <p>© 2026 Pablo M. Olmos. Static website for GitHub Pages.</p>
   </footer>
 </body>
 </html>
