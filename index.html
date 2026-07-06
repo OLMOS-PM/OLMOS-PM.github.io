@@ -312,25 +312,57 @@ h3 { font-size: 1.08rem; margin-bottom: .45rem; color: var(--text); }
     flex-direction: column;
     align-items: flex-start;
   }
+
   .nav-links {
     justify-content: flex-start;
   }
+
   .uc3m-mark img {
     width: 240px;
     max-width: 100%;
     min-width: 0;
   }
-  .hero, .grid-two, .about-panel, .contact-card {
+
+  .hero {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+    min-height: auto;
+  }
+
+  .hero-copy {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .lead,
+  .intro {
+    max-width: 100%;
+  }
+
+  h1 {
+    font-size: clamp(2.45rem, 14vw, 3.5rem);
+    letter-spacing: -.045em;
+  }
+
+  .profile-card {
+    order: 2;
+    align-self: flex-start;
+    justify-self: start;
+    width: min(220px, 75vw);
+  }
+
+  .grid-two,
+  .about-panel,
+  .contact-card {
     grid-template-columns: 1fr;
   }
-  .profile-card {
-    justify-self: start;
-    width: 220px;
-  }
+
   .section { padding: 3.5rem 1rem; }
-  .hero { min-height: auto; }
   .about-panel { padding: 2rem 1.25rem; border-radius: 0; }
   .columns { columns: 1; }
+
   .footer {
     flex-direction: column;
     align-items: flex-start;
@@ -396,6 +428,18 @@ h3 { font-size: 1.08rem; margin-bottom: .45rem; color: var(--text); }
   height: auto;
   object-fit: contain;
 }
+}
+
+  
+@media (max-width: 480px) {
+  .section { padding-left: .9rem; padding-right: .9rem; }
+  .nav { padding-left: .9rem; padding-right: .9rem; }
+  h1 { font-size: clamp(2.25rem, 13vw, 3rem); }
+  .lead { font-size: 1.05rem; }
+  .intro { font-size: .98rem; }
+  .actions { gap: .55rem; }
+  .button { padding: .65rem .85rem; min-height: 2.55rem; }
+  .profile-card { width: min(200px, 72vw); }
 }
 
   </style>
